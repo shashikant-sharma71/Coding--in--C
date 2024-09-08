@@ -1,4 +1,7 @@
-/*#include <stdio.h>
+#This is Parking Management Project 
+# This project is for entry the vehical and take money according to vehical type.
+
+#include <stdio.h>
 #include <conio.h>
 #include <stdlib.h>
 int menu();
@@ -86,10 +89,6 @@ void Riksha()
 {
     printf("Entery Successfull.");
     noR++; amount = amount + 50; count++;
-}*/
-#include<stdio.h>
-#include<conio.h>
-void main(){
-    char a,b;
-      
 }
+
+      
